@@ -33,7 +33,7 @@ body::before {
 }
 
 a {
-  color: #12a2d6;
+  color: #0062ff;
 }
 
 a:hover {
@@ -80,7 +80,7 @@ h1, h2, h3, h4, h5, h6 {
 #header h2 {
   font-size: 24px;
   margin-top: 20px;
-  color: #0099ff;
+  color: #0062ff;
 }
 
 #header h2 span {
@@ -182,7 +182,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .nav-menu a:hover, .nav-menu .active > a, .nav-menu li:hover > a {
-  color: #cc00ff;
+  color: #0062ff;
   text-decoration: none;
 }
 
@@ -232,14 +232,14 @@ h1, h2, h3, h4, h5, h6 {
 .mobile-nav a {
   display: block;
   position: relative;
-  color: #00aaff;
+  color: #0062ff;
   padding: 10px 20px;
   font-weight: 500;
   outline: none;
 }
 
 .mobile-nav a:hover, .mobile-nav .active > a, .mobile-nav li:hover > a {
-  color: #0091ff;
+  color: #0062ff;
   text-decoration: none;
 }
 
